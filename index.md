@@ -26,6 +26,15 @@ You wake up in your student accommodation and look outside to realise your campu
 - [Risk assessment and mitigation](/assets/PDFs/Risk1.pdf)
 - [Implementation](/assets/PDFs/Impl1.pdf)
 
+# Meet The Team for Assessment 2
+- Matthew Holleran: snk539@york.ac.uk
+- Abdul Fofanah: dqm509@york.ac.uk
+- Toby Watchorn: cnr519@york.ac.uk 
+- Arwen Minton: wvj515@york.ac.uk
+- Jess McKerill: sxf515@york.ac.uk
+- Daneena Mohd Roydean: hrd544@york.ac.uk
+- Henry Bambrough: ttm541@york.ac.uk
+
 # PDF Links for Assessment 2
 - []
 - []
