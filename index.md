@@ -10,7 +10,7 @@ You wake up in your student accommodation and look outside to realise your campu
 - Gather sweet treats located around the maze!
 
 
-# Meet The Team
+# Meet The Team for Assessment 1
 - Zoey Ahmed: [@zoey-ahmed-uni](https://github.com/zoey-ahmed-uni)
 - Sasha Heer: [@sashaheer](https://github.com/sashaheer)
 - Ahmet Abdulhamit: [@ahmination](https://github.com/ahmination) 
