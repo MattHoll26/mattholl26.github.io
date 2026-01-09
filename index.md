@@ -19,9 +19,16 @@ You wake up in your student accommodation and look outside to realise your campu
 - Oscar Meadowcroft [@OscarMhrh550](https://github.com/OscarMhrh550)
 - Alanah Bell: [@alanahbell](https://github.com/alanahbell)
 
-# PDF Links
+# PDF Links for Assessment 1
 - [Requirements](/assets/PDFs/Req1.pdf)
 - [Architecture](/assets/PDFs/Arch1.pdf)
 - [Method selection and planning](/assets/PDFs/Plan1.pdf)
 - [Risk assessment and mitigation](/assets/PDFs/Risk1.pdf)
 - [Implementation](/assets/PDFs/Impl1.pdf)
+
+# PDF Links for Assessment 2
+- []
+- []
+- []
+- []
+- []
