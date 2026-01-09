@@ -34,7 +34,7 @@ show_downloads: true
 github:
   is_project_page: true
   game_repo : https://github.com/MattHoll26/Engineering-1
-  jar_url : /assets/Game.jar
+  jar_url : /assets/Escape_the_Uni_Assessment_2_THADJAM.jar
 
 # Exclude from processing.
 # The following items will not be processed, by default.
