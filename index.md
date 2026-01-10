@@ -37,7 +37,7 @@ You wake up in your student accommodation and look outside to realise your campu
 
 # PDF Links for Assessment 2
 - [Requirements](/assets/PDFs)
-- [Architecture](/assets/PDFs)
+- [Architecture](/assets/PDFs/Arch2.pdf)
 - [Method selection and planning](/assets/PDFs)
 - [Risk assessment and mitigation](/assets/PDFs)
 - [Change Report](/assets/PDFs)
