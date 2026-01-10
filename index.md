@@ -46,7 +46,7 @@ You wake up in your student accommodation and look outside to realise your campu
 - [User Evaluation Report](assets/PDFs)
 - [Continuous Integration Report](assets/PDFs)
 
-- # URL Links to the Software Testing
+# URL Links to the Software Testing
 - [Automated Testing Materials](https://github.com/MattHoll26/2025-26-Engineering-1-/Game/core/build/reports/jacoco/test/html/index.html)
 - [Test Source Code](https://github.com/MattHoll26/Engineering-1/tree/main/Game/core/src/test/java/io/github/some_example_name)
 - [Test Results](https://github.com/MattHoll26/2025-26-Engineering-1-/Game/core/build/reports/tests/test/index.html)
