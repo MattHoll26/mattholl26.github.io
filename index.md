@@ -36,13 +36,13 @@ You wake up in your student accommodation and look outside to realise your campu
 - Henry Bambrough: ttm541@york.ac.uk
 
 # PDF Links for Assessment 2
-- [Requirements](/assets/PDFs)
+- [Requirements](/assets/PDFs/Req2.pdf)
 - [Architecture](/assets/PDFs/Arch2.pdf)
 - [Method selection and planning](/assets/PDFs)
 - [Risk assessment and mitigation](/assets/PDFs)
 - [Change Report](/assets/PDFs)
 - [Implementation](/assets/PDFs)
-- [Software Testing Report](assets/PDFs)
+- [Software Testing Report](assets/PDFs/Test2.pdf)
 - [User Evaluation Report](assets/PDFs)
 - [Continuous Integration Report](assets/PDFs)
 
