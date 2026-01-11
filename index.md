@@ -35,20 +35,16 @@ You wake up in your student accommodation and look outside to realise your campu
 - Daneena Mohd Roydean: hrd544@york.ac.uk
 - Henry Bambrough: ttm541@york.ac.uk
 
-# Supporting PDF Links for Assessment 2
+# PDF Links for Assessment 2
 - [Requirements](/assets/PDFs/Req2.pdf)
 - [Architecture](/assets/PDFs/Arch2.pdf)
 - [Method selection and planning](/assets/PDFs/Plan2.pdf)
 - [Risk assessment and mitigation](/assets/PDFs/Risk2.pdf)
-- [Change Report](/assets/PDFs)
+- [Change Report](/assets/PDFs/Change2.pdf)
 - [Implementation](/assets/PDFs)
 - [Software Testing Report](assets/PDFs/Test2.pdf)
 - [User Evaluation Report](assets/PDFs)
 - [Continuous Integration Report](assets/PDFs)
-
-# PDF Links for Assessment 2
-
-
 
 # URL Links to the Software Testing
 - [Test Execution Results](/assets/test-reports/index.html)
