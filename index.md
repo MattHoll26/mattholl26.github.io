@@ -44,7 +44,7 @@ You wake up in your student accommodation and look outside to realise your campu
 - [Implementation](/assets/PDFs/Impl2.pdf)
 - [Software Testing Report](assets/PDFs/Test2.pdf)
 - [User Evaluation Report](assets/PDFs/Eval2.pdf)
-- [Continuous Integration Report](assets/PDFs)
+- [Continuous Integration Report](assets/PDFs/CI2.pdf)
 
 # URL Links to the Software Testing
 - [Test Execution Results](/assets/test-reports/index.html)
