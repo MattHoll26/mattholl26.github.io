@@ -47,6 +47,7 @@ You wake up in your student accommodation and look outside to realise your campu
 - [Continuous Integration Report](assets/PDFs)
 
 # URL Links to the Software Testing
-- [Automated Testing Materials]
+- [Test Execution Results](/assets/test-reports/index.html)
+- [JaCoCo Coverage Report](/assets/coverage-reports/index.html)
 - [Test Source Code]
-- [Test Results]
+
