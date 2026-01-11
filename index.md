@@ -32,7 +32,7 @@ You wake up in your student accommodation and look outside to realise your campu
 - Toby Watchorn: cnr519@york.ac.uk [@twatch18](https://github.com/twatch18)
 - Arwen Minton: wvj515@york.ac.uk [@wvj515](https://github.com/wvj515)
 - Jess McKerill: sxf515@york.ac.uk [@jess-mckerill](https://github.com/jess-mckerill)
-- Daneena Mohd Roydean: hrd544@york.ac.uk [@zoey-ahmed-uni](https://github.com/zoey-ahmed-uni)
+- Daneena Mohd Roydean: hrd544@york.ac.uk [@DaneenaR](https://github.com/DaneenaR)
 - Henry Bambrough: ttm541@york.ac.uk
 
 # PDF Links for Assessment 2
