@@ -27,12 +27,12 @@ You wake up in your student accommodation and look outside to realise your campu
 - [Implementation](/assets/PDFs/Impl1.pdf)
 
 # Meet The Team for Assessment 2
-- Matthew Holleran: snk539@york.ac.uk
-- Abdul Fofanah: dqm509@york.ac.uk
-- Toby Watchorn: cnr519@york.ac.uk 
-- Arwen Minton: wvj515@york.ac.uk
-- Jess McKerill: sxf515@york.ac.uk
-- Daneena Mohd Roydean: hrd544@york.ac.uk
+- Matthew Holleran: snk539@york.ac.uk [@MattHoll26](https://github.com/MattHoll26)
+- Abdul Fofanah: dqm509@york.ac.uk [@abdulfofanah](https://github.com/AbdulFofanah)
+- Toby Watchorn: cnr519@york.ac.uk [@twatch18](https://github.com/twatch18)
+- Arwen Minton: wvj515@york.ac.uk [@wvj515](https://github.com/wvj515)
+- Jess McKerill: sxf515@york.ac.uk [@jess-mckerill](https://github.com/jess-mckerill)
+- Daneena Mohd Roydean: hrd544@york.ac.uk [@zoey-ahmed-uni](https://github.com/zoey-ahmed-uni)
 - Henry Bambrough: ttm541@york.ac.uk
 
 # PDF Links for Assessment 2
