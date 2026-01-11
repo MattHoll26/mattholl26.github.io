@@ -49,6 +49,6 @@ You wake up in your student accommodation and look outside to realise your campu
 # URL Links to the Software Testing
 - [Test Execution Results](/assets/test-reports/index.html)
 - [JaCoCo Coverage Report](/assets/coverage-reports/index.html)
-- [Test Source Code](/https://github.com/MattHoll26/Engineering-1/tree/main/Game/core/src/test/java/io/github/some_example_name)
+- [Test Source Code](https://github.com/MattHoll26/Engineering-1/tree/main/Game/core/src/test/java/io/github/some_example_name)
 - [Manual Test](/assets/PDFs/ManualTest.pdf)
 
